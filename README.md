@@ -25,7 +25,10 @@
 С помощью Ansible и Docker Compose разверните на виртуальной машине из предыдущего задания систему мониторинга на основе Prometheus/Grafana.
 Используйте Ansible-код в директории ([src/ansible](https://github.com/netology-group/virt-homeworks/tree/virt-11/05-virt-04-docker-compose/src/ansible)).
 
-Чтобы получить зачёт, вам нужно предоставить вывод команды "docker ps" , все контейнеры, описанные в [docker-compose](https://github.com/netology-group/virt-homeworks/blob/virt-11/05-virt-04-docker-compose/src/ansible/stack/docker-compose.yaml),  должны быть в статусе "Up".
+Ответ:
+
+![image](https://github.com/DrDavidN/05-virt-04-docker-compose-hw/assets/128225763/ee43a417-dfbd-4abe-94ec-fd1cfcfe2891)
+
 
 ## Задача 4
 
@@ -34,17 +37,6 @@
 3. Изучите доступный интерфейс, найдите в интерфейсе автоматически созданные docker-compose-панели с графиками([dashboards](https://grafana.com/docs/grafana/latest/dashboards/use-dashboards/)).
 4. Подождите 5-10 минут, чтобы система мониторинга успела накопить данные.
 
-Чтобы получить зачёт, предоставьте: 
+Ответ:
 
-- скриншот работающего веб-интерфейса Grafana с текущими метриками, как на примере ниже.
-<p align="center">
-  <img width="1200" height="600" src="./assets/yc_02.png">
-</p>
-
-## Задача 5 (*)
-
-Создайте вторую ВМ и подключите её к мониторингу, развёрнутому на первом сервере.
-
-Чтобы получить зачёт, предоставьте:
-
-- скриншот из Grafana, на котором будут отображаться метрики добавленного вами сервера.
+![image](https://github.com/DrDavidN/05-virt-04-docker-compose-hw/assets/128225763/7f378cd0-a179-4cbb-a730-0930069826f8)
