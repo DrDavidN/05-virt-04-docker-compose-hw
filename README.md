@@ -39,4 +39,3 @@
 
 Ответ:
 
-![image](https://github.com/DrDavidN/05-virt-04-docker-compose-hw/assets/128225763/7f378cd0-a179-4cbb-a730-0930069826f8)
