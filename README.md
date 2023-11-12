@@ -17,7 +17,7 @@
 
 Ответ:
 
-
+![image](https://github.com/DrDavidN/05-virt-04-docker-compose-hw/assets/128225763/571556a8-ec2d-44da-92a1-4e0e0f5812d5)
 
 
 ## Задача 3
@@ -39,3 +39,4 @@
 
 Ответ:
 
+![image](https://github.com/DrDavidN/05-virt-04-docker-compose-hw/assets/128225763/51ea8cf8-1653-487a-a539-0fdc8adde340)
